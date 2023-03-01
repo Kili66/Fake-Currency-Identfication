@@ -13,3 +13,13 @@ The best algorithm for this probleme is : KNeighborsClassifier (KNN)
     accuracy                           1.00       406
    macro avg       1.00      1.00      1.00       406
 weighted avg       1.00      1.00      1.00       406
+
+
+
+
+
+
+
+
+
+
